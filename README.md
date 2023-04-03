@@ -5,7 +5,8 @@
 🎓 I'm currently completing my masters with a specialization in Machine Learning and Computation Finance in C++.
 
 📚 I enjoy working with Python, R and C++. 
-/
+
+<br />
 
 📫 You can reach me at theodoros.gavriilidis22@imperial.ac.uk or via my [LinkedIn Profile](https://www.linkedin.com/in/theodoros-gavriilidis/).
 
