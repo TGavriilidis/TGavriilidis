@@ -8,7 +8,7 @@
 
 <br />
 
-📫 You can reach me at theodoros.gavriilidis22@imperial.ac.uk or via my [LinkedIn Profile](https://www.linkedin.com/in/theodoros-gavriilidis/).
+📫 You can reach me at theodore.gavriilidis@gmail.com or via my [LinkedIn Profile](https://www.linkedin.com/in/theodoros-gavriilidis/).
 
 
 <!--
