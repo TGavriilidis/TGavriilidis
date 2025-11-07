@@ -1,14 +1,14 @@
 ### Hi there, I'm Theodore!
 
-🌱 I'm a Risk Management and Financial Engineering masters student at the **Imperial College** and a part-time Visitor Researcher at **The Center of Excelence - DEREE**.
+🚀 Senior AI Engineer at **Accuria**, building production Gen AI systems for financial institutions across Europe.
 
-🎓 I'm currently completing my masters with a specialization in Machine Learning and Computation Finance in C++.
+💡 I specialize in LLM-powered document processing, multi-agent systems, and end-to-end AI solution delivery—from client requirements to deployed products.
 
-📚 I enjoy working with Python, R and C++. 
+🛠️ Working daily with: Python, FastAPI, AWS Bedrock, Pydantic AI, Docker, and Kubernetes.
 
-<br />
+🎓 MSc Risk Management & Financial Engineering from **Imperial College** | MEng Electrical & Computer Engineering from **NTUA**
 
-📫 You can reach me at theodore.gavriilidis@gmail.com or via my [LinkedIn Profile](https://www.linkedin.com/in/theodoros-gavriilidis/).
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/theodore-gavriilidis/)
 
 
 <!--
