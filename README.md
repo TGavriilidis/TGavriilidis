@@ -1,14 +1,14 @@
 ### Hi there, I'm Theodore!
 
-🚀 Senior AI Engineer at **Accuria**, building production Gen AI systems for financial institutions across Europe.
+I'm a Senior AI Product Engineer at **Accuria**, building production Agentic systems for financial institutions across Europe.
 
-💡 I specialize in LLM-powered document processing, multi-agent systems, and end-to-end AI solution delivery—from client requirements to deployed products.
+I specialize in LLM-powered document processing, multi-agent systems, and end-to-end AI solution delivery—from client requirements to deployment.
 
-🛠️ Working daily with: Python, FastAPI, AWS Bedrock, Pydantic AI, Docker, and Kubernetes.
+Working daily with: Python, Pydantic (AI), FastAPI, AWS, Docker, and Kubernetes.
 
-🎓 MSc Risk Management & Financial Engineering from **Imperial College** | MEng Electrical & Computer Engineering from **NTUA**
+MSc Risk Management & Financial Engineering from **Imperial College** | MEng Electrical & Computer Engineering from **NTUA** | BA Economics from **The American College of Greece - DEREE**
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/theodore-gavriilidis/)
+Reach me: [LinkedIn](https://www.linkedin.com/in/theodore-gavriilidis/)
 
 
 <!--
